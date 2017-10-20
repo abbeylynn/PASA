@@ -1,0 +1,34 @@
+.materialboxed {
+	width:320px;
+	padding:10px;
+}
+
+body {
+	color:white;
+	background-image:url("../images/black_mamba.png");
+}
+
+hr {
+	background-color:#8B0000;
+	color:#8B0000;
+	height:5px;
+	border-color:#8B0000;
+}
+
+@font-face {
+    font-family: BlowBrush;
+    src: url("../fonts/blowbrush.otf") format("opentype");
+}
+
+.city {
+    font-family: BlowBrush;
+  }
+
+  .header {
+  	font-family: 'Courgette', cursive;
+  }
+
+.nav-wrapper, .page-footer {
+	background:#8B0000;
+}
+
