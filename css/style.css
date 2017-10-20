@@ -30,5 +30,8 @@ hr {
 
 .nav-wrapper, .page-footer {
 	background:#8B0000;
+  box-shadow: 0 0 10px gray;
+  z-index: 5;
+
 }
 
